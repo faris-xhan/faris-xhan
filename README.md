@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm Mohammad Naeem Khan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
